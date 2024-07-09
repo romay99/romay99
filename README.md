@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요! 백엔드 개발자를 꿈꾸는 이수빈이라고 합니다!! 👋
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romay99&layout=compact)
 
