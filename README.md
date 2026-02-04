@@ -1,11 +1,37 @@
 ### 안녕하세요! 백엔드 개발자 이수빈이라고 합니다!! 👋
 
 
-# BOJ
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=romay99)](https://solved.ac/romay99/)
+# PS
+<h2 align="center">🏆 Algorithm Stats</h2>
 
-# Programmers
-![image](https://raw.githubusercontent.com/romay99/programmers-badge/master/static/result.svg)
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+<h3>BOJ</h3>
+
+<a href="https://solved.ac/romay99/">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=romay99" />
+</a>
+
+</td>
+
+<td align="center">
+
+<h3>Programmers</h3>
+
+<img src="https://raw.githubusercontent.com/romay99/programmers-badge/master/static/result.svg" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+
+
 
 ![js]( https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![js](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
