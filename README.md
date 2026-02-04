@@ -1,7 +1,5 @@
 ### 안녕하세요! 백엔드 개발자 이수빈이라고 합니다!! 👋
 
-
-# PS
 <h2 align="center">🏆 Algorithm Stats</h2>
 
 <div align="center">
